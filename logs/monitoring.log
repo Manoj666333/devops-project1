@@ -1,0 +1,30 @@
+         SERVER MONITORING REPORT           
+==========================
+ Data :Sun Sep  6 15:02:41 UTC 2026
+User : manoj
+Working : /home/manoj/devops-project
+disk_usuage: 1
+Disk Status : NORMAL
+Docker Application Status: STOPPED
+Memory Usage: 554 MB
+==========================
+         SERVER MONITORING REPORT           
+==========================
+ Data :Sun Sep  6 15:03:17 UTC 2026
+User : manoj
+Working : /home/manoj/devops-project
+disk_usuage: 1
+Disk Status : NORMAL
+Docker Application Status: STOPPED
+Memory Usage: 553 MB
+==========================
+         SERVER MONITORING REPORT           
+==========================
+ Data :Sun Sep  6 15:04:29 UTC 2026
+User : manoj
+Working : /home/manoj/devops-project
+disk_usuage: 1
+Disk Status : NORMAL
+Docker Application Status: RUNNING
+Memory Usage: 569 MB
+==========================
